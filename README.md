@@ -1,0 +1,3 @@
+# React Native FlatList Performance Optimization
+
+This repository demonstrates a common performance issue with React Native's FlatList component when dealing with large datasets and provides an optimized solution.  The bug showcases slow scrolling and potential unresponsiveness. The solution improves performance by utilizing the `windowSize` and `removeClippedSubviews` props of FlatList.  See the included files for code examples.
